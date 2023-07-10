@@ -1,0 +1,25 @@
+{
+  "name": "make-your-game",
+  "version": "1.0.0",
+  "description": "task1 for kood mandatory tasks JS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://01.kood.tech/git/ehspp/make-your-game.git"
+  },
+  "keywords": [
+    "mygame"
+  ],
+  "author": "Erik Sepp, OlenaBudarahina",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "eslint": "^8.42.0",
+    "mocha": "*",
+    "jsdom-global/register": "^3.0.2"
+  }
+}
